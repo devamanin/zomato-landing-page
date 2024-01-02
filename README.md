@@ -5,4 +5,4 @@ Make sure that your HTML, CSS files and the images are in the same folder before
 # Result
 Do check out the cloned website in About section
 
-# Live link: 
+# Live link: https://cute-pika-daa3de.netlify.app/
